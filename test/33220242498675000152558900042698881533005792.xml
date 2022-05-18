@@ -1,0 +1,225 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe33220242498675000152558900042698881533005792" versao="4.00">
+            <ide>
+                <cUF>33</cUF>
+                <cNF>53300579</cNF>
+                <natOp>Retorno de bem recebido por conta de contrato de comodato</natOp>
+                <mod>55</mod>
+                <serie>890</serie>
+                <nNF>4269888</nNF>
+                <dhEmi>2022-02-11T11:59:19-03:00</dhEmi>
+                <dhSaiEnt>2022-02-14T11:59:00-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>3302007</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>1</indPres>
+                <procEmi>1</procEmi>
+                <verProc>1.0.0</verProc>
+            </ide>
+            <emit>
+                <CNPJ>72372998000409</CNPJ>
+                <xNome>COMPANHIA PORTUARIA BAIA DE SEPETIBA</xNome>
+                <xFant>Emitente declara-se n&#227;o contribuinte do ICMS</xFant>
+                <enderEmit>
+                    <xLgr>ESTRADA DA ILHA DA MADEIRA</xLgr>
+                    <nro>SN</nro>
+                    <xBairro>ILHA DA MADEIRA</xBairro>
+                    <cMun>3302007</cMun>
+                    <xMun>Itagua&#237;</xMun>
+                    <UF>RJ</UF>
+                    <CEP>23800000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>2127896399</fone>
+                </enderEmit>
+                <IE>ISENTO</IE>
+                <CRT>3</CRT>
+            </emit>
+            <avulsa>
+                <CNPJ>42498675000152</CNPJ>
+                <xOrgao>Secretaria de Estado de Fazenda do Rio de Janeiro</xOrgao>
+                <matr>00000000</matr>
+                <xAgente>Secretaria de Estado de Fazenda do Rio de Janeiro</xAgente>
+                <UF>RJ</UF>
+                <repEmi>00000000</repEmi>
+            </avulsa>
+            <dest>
+                <CNPJ>03172011000147</CNPJ>
+                <xNome>FARLOC COMERCIO E SERVICOS LTDA</xNome>
+                <enderDest>
+                    <xLgr>Rua S&#227;o Pedro</xLgr>
+                    <nro>397</nro>
+                    <xBairro>Jardim Limoeiro</xBairro>
+                    <cMun>3205002</cMun>
+                    <xMun>Serra</xMun>
+                    <UF>ES</UF>
+                    <CEP>29164042</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>81997574</IE>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>35001943</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>BOMBAS MANUAIS EXCETO 8413.11 OU 8413.19 - BOMBA HIDRAULICA D.A P80</xProd>
+                    <NCM>84132000</NCM>
+                    <CFOP>6909</CFOP>
+                    <uCom>UN</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>8000.0000000000</vUnCom>
+                    <vProd>8000.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>UN</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>8000.0000000000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>41</CST>
+                        </ICMS40>
+                    </ICMS>
+                    <PIS>
+                        <PISNT>
+                            <CST>08</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>08</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="2">
+                <prod>
+                    <cProd>35001680</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>ARTEFATOS ROSCADOS: PORCAS - PORCA HIDRAULICA HMV 48E</xProd>
+                    <NCM>73181600</NCM>
+                    <CFOP>6909</CFOP>
+                    <uCom>UN</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>11000.0000000000</vUnCom>
+                    <vProd>11000.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>UN</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>11000.0000000000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>41</CST>
+                        </ICMS40>
+                    </ICMS>
+                    <PIS>
+                        <PISNT>
+                            <CST>08</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>08</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>19000.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>19000.00</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>1</modFrete>
+                <transporta>
+                    <CNPJ>03172011000147</CNPJ>
+                    <xNome>FARLOC COMERCIO E SERVICOS LTDA</xNome>
+                    <IE>81997574</IE>
+                    <xEnder>Rua S&#227;o Pedro, 397, Jardim Lamoeiro, Serra - ES</xEnder>
+                    <xMun>Serra</xMun>
+                    <UF>ES</UF>
+                </transporta>
+                <vol>
+                    <qVol>2</qVol>
+                </vol>
+            </transp>
+            <cobr />
+            <pag>
+                <detPag>
+                    <tPag>90</tPag>
+                    <vPag>0.00</vPag>
+                </detPag>
+                <vTroco>0.00</vTroco>
+            </pag>
+            <infAdic>
+                <infAdFisco>A NFA-e emitida por pessoa f&#237;sica ou jur&#237;dica tem a finalidade espec&#237;fica de acompanhar o transporte. Consulte a legisla&#231;&#227;o que disciplina a mat&#233;ria: art. 35 a 37-B do Anexo I do Livro VI do RICMS/00, Decreto n&#186; 27.427/00.)</infAdFisco>
+                <infCpl>Devolucao Total de sua NF_16725, do dia 05/02/2022. Entrada: 4508170582 - Recebimento: #18226283 - Solicitante: carlos.dias.barros@vale.com</infCpl>
+            </infAdic>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe33220242498675000152558900042698881533005792">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>+La7Y5X4AtOGVl0faySXcM3vnVs=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>dq4pp/JTY0Ig0eh5DDPukioCaaDHVvMUTZN17raC93ev60H+EBCx1ImO+S3jCIMoa99vzS7hbU1pL5JZ+hlKtJLDLqC1YQrTiDnU1PlSPP/Wh+mO9h0xDsZf/kpwkYET8PWGBY6XYmYGwvsAeixoLOoP0fPJOkEwCWU8OIrmkTDj97gizmy1LbTWUOGEuzyra7DvsrGfTjqUW/k0jdo0ntfwJ6Cje+L91eQFAE3ZTN3gVjQBgF8k3HWsdAN6du2xL5zoEEKmJA7kPCh5yVe9puLNq9FkMPJyGiS4Gb6u+7N1JV6Vp2zL6MWEbl7n2lz0kP5YRau3D9O99oreXYCVsw==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>MIIHXDCCBUSgAwIBAgIIEd4hBhdyB5gwDQYJKoZIhvcNAQELBQAwWTELMAkGA1UEBhMCQlIxEzARBgNVBAoTCklDUC1CcmFzaWwxFTATBgNVBAsTDEFDIFNPTFVUSSB2NTEeMBwGA1UEAxMVQUMgU09MVVRJIE11bHRpcGxhIHY1MB4XDTIxMDYxODE2MzcwMFoXDTIyMDYxODE2MzcwMFowgfkxCzAJBgNVBAYTAkJSMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMQswCQYDVQQIEwJSSjEXMBUGA1UEBxMOUmlvIGRlIEphbmVpcm8xHjAcBgNVBAsTFUFDIFNPTFVUSSBNdWx0aXBsYSB2NTEXMBUGA1UECxMOMDk0NjE2NDcwMDAxOTUxGTAXBgNVBAsTEFZpZGVvY29uZmVyZW5jaWExGjAYBgNVBAsTEUNlcnRpZmljYWRvIFBKIEExMT8wPQYDVQQDEzZTRUNSRVRBUklBIERFIEVTVEFETyBERSBGQVpFTkRBIC0gU0VGQVo6NDI0OTg2NzUwMDAxNTIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCWxooyIKP1Ftvt2niEZ/hmJibh2ZfyPSNb1f3Adbqp8Ut0/Y06ox6caK2NMF3yesq6YEswX/AMQNieYq+1DYiRCmINct7jn35BBC0nI8scYctVUxfbbeVhCwFJjjAh7VCNmVNGfpvxekBlW5jgEee9vrH9NTsiAkEm4u+ZOfC/PRT9uUGCrmGl0Zas9D+PS44conMfnzGl5EE/XGUm6aT1+QTng+7jH4jV+gShpHCGFpFgXCti0Fa5mdX99HNzGVY8oAXnyamGqmuiYzdyS0ROWVv7RlevsJjyvirgkoE7HAAueZckq0zucp12Kuft3bGxQ4EjY5fFVpg0ckho/TXrAgMBAAGjggKFMIICgTAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFMVS7SWACd+cgsifR8bdtF8x3bmxMFQGCCsGAQUFBwEBBEgwRjBEBggrBgEFBQcwAoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12NS5wN2IwgcAGA1UdEQSBuDCBtYEgc2VndXJhbmNhLnNhdGlAZmF6ZW5kYS5yai5nb3YuYnKgIwYFYEwBAwKgGhMYTkVMU09OIE1PTlRFSVJPIERBIFJPQ0hBoBkGBWBMAQMDoBATDjQyNDk4Njc1MDAwMTUyoDgGBWBMAQMEoC8TLTEzMTAxOTU5NTQ5MTMzMTQ3MzQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwXQYDVR0gBFYwVDBSBgZgTAECASYwSDBGBggrBgEFBQcCARY6aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvZG9jcy9kcGMtYWMtc29sdXRpLW11bHRpcGxhLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgYwGA1UdHwSBhDCBgTA+oDygOoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12NS5jcmwwP6A9oDuGOWh0dHA6Ly9jY2QyLmFjc29sdXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXY1LmNybDAdBgNVHQ4EFgQUS0EtqvSQj3LLIaK3BzU6D4+P6GAwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQAd9L2uqtzxnHqzQeBExwtGnZSIwNax7+nvzQdZ6KqcMRbTnnWtq9d4ybFeL3YYL23SgMNXKLxCMMIeF+zdo1sRmKQkSRKwF1nWzo/Yp3T3+9Q/P6hKB5S6ecJACL0bC9F1DSo1e3ihT9pmCznGC9qqsvT1uWt2oiJ9cN0XaDM0aPMgZ5aPJanu0nB1P71y6ChEOY9kfY9kMRC6VR8UHQvzmgl4QsErvxvkoSaKhARhBZINSoU861msskvu++qWDb13r1VYoz5/r14kRH5VFpoSE4kRlfi3AojoR+MmmE8Cu4Ed91MYcdhBC9YYV0XZe1tyz80JVpagK9oDFEeG4kv5norFp4XEXR48RKcEtYaoFEJ9k0nq9uNJ42wdWY4xKLfSXgM7J5H5B9YepkUIN6Eb3kc/K2f9ua1CIdh/hiSJSo9mlw/DxT9UPVaMJp7jc2ATYPxxXSdYdSXO3rE88SVe8zUka4W5gEAMTD6IzH8JaYrHzo8ubZXRp0ByewvCvLSQW/InEYg3paYbUIP+DA/zK1GsWOssGzQ/a6el5LwnjOd+aMrTim/nlCYSF+SUJNAnA+2GUZSkMMSPvFJW8hvxGMmYDAXd3lCPQyacqazjZ84ar7s/UAf8E81YzzdtdFtzG5ppFjLHRDMV+0koMV8NzX2XWDQlIjhyNfXSfNVGuA==</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SVRS202111190951</verAplic>
+            <chNFe>33220242498675000152558900042698881533005792</chNFe>
+            <dhRecbto>2022-02-11T12:00:48-03:00</dhRecbto>
+            <nProt>333220028907098</nProt>
+            <digVal>+La7Y5X4AtOGVl0faySXcM3vnVs=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
